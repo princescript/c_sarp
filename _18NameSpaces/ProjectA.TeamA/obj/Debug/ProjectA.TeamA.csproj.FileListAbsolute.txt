@@ -1,0 +1,6 @@
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.dll
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.pdb
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.dll
+C:\Users\Prince\Desktop\csarp\NameSpaces18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.pdb

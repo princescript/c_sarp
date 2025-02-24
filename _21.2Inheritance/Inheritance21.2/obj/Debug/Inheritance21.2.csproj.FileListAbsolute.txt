@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\bin\Debug\Inheritance21.2.exe.config
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\bin\Debug\Inheritance21.2.exe
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\bin\Debug\Inheritance21.2.pdb
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\obj\Debug\Inheritance21.2.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\obj\Debug\Inheritance21.2.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\obj\Debug\Inheritance21.2.exe
+C:\Users\Prince\Desktop\csarp\Inheritance21.2\Inheritance21.2\obj\Debug\Inheritance21.2.pdb

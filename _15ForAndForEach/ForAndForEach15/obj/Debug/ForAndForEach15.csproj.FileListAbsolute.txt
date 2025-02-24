@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\bin\Debug\ForAndForEach15.exe.config
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\bin\Debug\ForAndForEach15.exe
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\bin\Debug\ForAndForEach15.pdb
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\obj\Debug\ForAndForEach15.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\obj\Debug\ForAndForEach15.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\obj\Debug\ForAndForEach15.exe
+C:\Users\Prince\Desktop\csarp\ForAndForEach15\ForAndForEach15\obj\Debug\ForAndForEach15.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\Desktop\\csarp\\NeedofProperties27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74D6B8F-EC9B-4B0B-869C-D59DF5D631D9}|NeedofProperties27\\NeedofProperties27.csproj|c:\\users\\prince\\desktop\\csarp\\needofproperties27\\needofproperties27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74D6B8F-EC9B-4B0B-869C-D59DF5D631D9}|NeedofProperties27\\NeedofProperties27.csproj|solutionrelative:needofproperties27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\csarp\\NeedofProperties27\\NeedofProperties27\\Program.cs",
+              "RelativeDocumentMoniker": "NeedofProperties27\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\csarp\\NeedofProperties27\\NeedofProperties27\\Program.cs",
+              "RelativeToolTip": "NeedofProperties27\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:14:19.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

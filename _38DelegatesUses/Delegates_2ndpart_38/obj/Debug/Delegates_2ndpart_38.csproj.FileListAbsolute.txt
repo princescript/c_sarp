@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\bin\Debug\Delegates_2ndpart_38.exe.config
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\bin\Debug\Delegates_2ndpart_38.exe
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\bin\Debug\Delegates_2ndpart_38.pdb
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\obj\Debug\Delegates_2ndpart_38.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\obj\Debug\Delegates_2ndpart_38.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\obj\Debug\Delegates_2ndpart_38.exe
+C:\Users\Prince\Desktop\csarp\Delegates_2ndpart_38\Delegates_2ndpart_38\obj\Debug\Delegates_2ndpart_38.pdb

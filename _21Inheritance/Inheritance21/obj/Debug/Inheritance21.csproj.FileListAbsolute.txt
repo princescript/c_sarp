@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\bin\Debug\Inheritance21.exe.config
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\bin\Debug\Inheritance21.exe
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\bin\Debug\Inheritance21.pdb
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\obj\Debug\Inheritance21.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\obj\Debug\Inheritance21.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\obj\Debug\Inheritance21.exe
+C:\Users\Prince\Desktop\csarp\Inheritance21\Inheritance21\obj\Debug\Inheritance21.pdb

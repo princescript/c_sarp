@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\bin\Debug\AbstractClasses32.exe.config
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\bin\Debug\AbstractClasses32.exe
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\bin\Debug\AbstractClasses32.pdb
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\obj\Debug\AbstractClasses32.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\obj\Debug\AbstractClasses32.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\obj\Debug\AbstractClasses32.exe
+C:\Users\Prince\Desktop\csarp\AbstractClasses32\AbstractClasses32\obj\Debug\AbstractClasses32.pdb

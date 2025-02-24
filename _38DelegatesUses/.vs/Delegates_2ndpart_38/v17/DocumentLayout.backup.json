@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\Desktop\\csarp\\Delegates_2ndpart_38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824C7D79-09FF-446B-A992-714B5711AC79}|Delegates_2ndpart_38\\Delegates_2ndpart_38.csproj|c:\\users\\prince\\desktop\\csarp\\delegates_2ndpart_38\\delegates_2ndpart_38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824C7D79-09FF-446B-A992-714B5711AC79}|Delegates_2ndpart_38\\Delegates_2ndpart_38.csproj|solutionrelative:delegates_2ndpart_38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\csarp\\Delegates_2ndpart_38\\Delegates_2ndpart_38\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates_2ndpart_38\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\csarp\\Delegates_2ndpart_38\\Delegates_2ndpart_38\\Program.cs*",
+              "RelativeToolTip": "Delegates_2ndpart_38\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:52:15.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

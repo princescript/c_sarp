@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\bin\Debug\NeedofProperties27.exe.config
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\bin\Debug\NeedofProperties27.exe
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\bin\Debug\NeedofProperties27.pdb
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\obj\Debug\NeedofProperties27.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\obj\Debug\NeedofProperties27.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\obj\Debug\NeedofProperties27.exe
+C:\Users\Prince\Desktop\csarp\NeedofProperties27\NeedofProperties27\obj\Debug\NeedofProperties27.pdb

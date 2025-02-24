@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\bin\Debug\needForProperties.exe.config
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\bin\Debug\needForProperties.exe
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\bin\Debug\needForProperties.pdb
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\obj\Debug\needForProperties.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\obj\Debug\needForProperties.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\obj\Debug\needForProperties.exe
+C:\Users\Prince\Desktop\csarp\needForProperties\needForProperties\obj\Debug\needForProperties.pdb

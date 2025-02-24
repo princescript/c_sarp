@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\bin\Debug\Classes19.exe.config
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\bin\Debug\Classes19.exe
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\bin\Debug\Classes19.pdb
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\obj\Debug\Classes19.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\obj\Debug\Classes19.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\obj\Debug\Classes19.exe
+C:\Users\Prince\Desktop\csarp\Classes19\Classes19\obj\Debug\Classes19.pdb

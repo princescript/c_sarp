@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prince\\Desktop\\csarp\\NullableType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6E959-0C48-4D39-87F4-4CA2DDED6DA0}|NullableType\\NullableType.csproj|c:\\users\\prince\\desktop\\csarp\\nullabletype\\nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6E959-0C48-4D39-87F4-4CA2DDED6DA0}|NullableType\\NullableType.csproj|solutionrelative:nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince\\Desktop\\csarp\\NullableType\\NullableType\\Program.cs",
+              "RelativeDocumentMoniker": "NullableType\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince\\Desktop\\csarp\\NullableType\\NullableType\\Program.cs",
+              "RelativeToolTip": "NullableType\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:30:48.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

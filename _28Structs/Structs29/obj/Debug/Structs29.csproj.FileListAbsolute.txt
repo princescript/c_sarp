@@ -1,0 +1,7 @@
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\bin\Debug\Structs29.exe.config
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\bin\Debug\Structs29.exe
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\bin\Debug\Structs29.pdb
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\obj\Debug\Structs29.csproj.AssemblyReference.cache
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\obj\Debug\Structs29.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\obj\Debug\Structs29.exe
+C:\Users\Prince\Desktop\csarp\Structs29\Structs29\obj\Debug\Structs29.pdb
