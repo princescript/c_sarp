@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\bin\Debug\MethodOverloading25.exe.config
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\bin\Debug\MethodOverloading25.exe
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\bin\Debug\MethodOverloading25.pdb
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\obj\Debug\MethodOverloading25.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\obj\Debug\MethodOverloading25.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\obj\Debug\MethodOverloading25.exe
-C:\Users\Prince\Desktop\csarp\MethodOverloading25\MethodOverloading25\obj\Debug\MethodOverloading25.pdb

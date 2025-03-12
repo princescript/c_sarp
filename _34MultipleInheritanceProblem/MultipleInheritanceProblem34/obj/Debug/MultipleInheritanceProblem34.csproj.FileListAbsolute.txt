@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\bin\Debug\MultipleInheritanceProblem34.exe.config
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\bin\Debug\MultipleInheritanceProblem34.exe
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\bin\Debug\MultipleInheritanceProblem34.pdb
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\obj\Debug\MultipleInheritanceProblem34.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\obj\Debug\MultipleInheritanceProblem34.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\obj\Debug\MultipleInheritanceProblem34.exe
-C:\Users\Prince\Desktop\csarp\MultipleInheritanceProblem34\MultipleInheritanceProblem34\obj\Debug\MultipleInheritanceProblem34.pdb

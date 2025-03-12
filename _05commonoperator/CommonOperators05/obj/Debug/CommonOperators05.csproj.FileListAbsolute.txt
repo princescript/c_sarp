@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\bin\Debug\CommonOperators05.exe.config
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\bin\Debug\CommonOperators05.exe
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\bin\Debug\CommonOperators05.pdb
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\obj\Debug\CommonOperators05.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\obj\Debug\CommonOperators05.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\obj\Debug\CommonOperators05.exe
-C:\Users\Prince\Desktop\csarp\CommonOperators05\CommonOperators05\obj\Debug\CommonOperators05.pdb

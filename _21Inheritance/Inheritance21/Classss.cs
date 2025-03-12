@@ -1,4 +1,4 @@
-﻿using System;
+﻿0using System;
 namespace Inheritance21
 {
     internal class Classss

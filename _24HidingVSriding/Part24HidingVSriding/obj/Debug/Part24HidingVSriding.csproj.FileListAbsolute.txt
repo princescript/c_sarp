@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\bin\Debug\Part24HidingVSriding.exe.config
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\bin\Debug\Part24HidingVSriding.exe
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\bin\Debug\Part24HidingVSriding.pdb
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\obj\Debug\Part24HidingVSriding.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\obj\Debug\Part24HidingVSriding.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\obj\Debug\Part24HidingVSriding.exe
-C:\Users\Prince\Desktop\csarp\Part24HidingVSriding\Part24HidingVSriding\obj\Debug\Part24HidingVSriding.pdb

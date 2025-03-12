@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\obj\Debug\Delegatesuses37.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\obj\Debug\Delegatesuses37.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\bin\Debug\Delegatesuses37.exe.config
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\bin\Debug\Delegatesuses37.exe
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\bin\Debug\Delegatesuses37.pdb
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\obj\Debug\Delegatesuses37.exe
-C:\Users\Prince\Desktop\csarp\Delegatesuses37\Delegatesuses37\obj\Debug\Delegatesuses37.pdb

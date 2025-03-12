@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Array09\Array09\bin\Debug\Array09.exe.config
-C:\Users\Prince\Desktop\csarp\Array09\Array09\bin\Debug\Array09.exe
-C:\Users\Prince\Desktop\csarp\Array09\Array09\bin\Debug\Array09.pdb
-C:\Users\Prince\Desktop\csarp\Array09\Array09\obj\Debug\Array09.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Array09\Array09\obj\Debug\Array09.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Array09\Array09\obj\Debug\Array09.exe
-C:\Users\Prince\Desktop\csarp\Array09\Array09\obj\Debug\Array09.pdb

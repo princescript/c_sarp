@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\bin\Debug\Loops13.exe.config
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\bin\Debug\Loops13.exe
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\bin\Debug\Loops13.pdb
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\obj\Debug\Loops13.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\obj\Debug\Loops13.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\obj\Debug\Loops13.exe
-C:\Users\Prince\Desktop\csarp\Loops13\Loops13\obj\Debug\Loops13.pdb

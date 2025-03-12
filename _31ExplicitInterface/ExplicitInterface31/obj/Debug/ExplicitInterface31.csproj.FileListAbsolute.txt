@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\bin\Debug\ExplicitInterface31.exe.config
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\bin\Debug\ExplicitInterface31.exe
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\bin\Debug\ExplicitInterface31.pdb
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\obj\Debug\ExplicitInterface31.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\obj\Debug\ExplicitInterface31.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\obj\Debug\ExplicitInterface31.exe
-C:\Users\Prince\Desktop\csarp\ExplicitInterface31\ExplicitInterface31\obj\Debug\ExplicitInterface31.pdb

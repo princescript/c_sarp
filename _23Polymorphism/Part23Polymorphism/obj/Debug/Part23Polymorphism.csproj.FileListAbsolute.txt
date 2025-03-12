@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\bin\Debug\Part23Polymorphism.exe.config
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\bin\Debug\Part23Polymorphism.exe
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\bin\Debug\Part23Polymorphism.pdb
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\obj\Debug\Part23Polymorphism.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\obj\Debug\Part23Polymorphism.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\obj\Debug\Part23Polymorphism.exe
-C:\Users\Prince\Desktop\csarp\Part23Polymorphism\Part23Polymorphism\obj\Debug\Part23Polymorphism.pdb

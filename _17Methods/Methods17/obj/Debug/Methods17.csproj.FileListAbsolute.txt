@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\bin\Debug\Methods17.exe.config
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\bin\Debug\Methods17.exe
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\bin\Debug\Methods17.pdb
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\obj\Debug\Methods17.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\obj\Debug\Methods17.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\obj\Debug\Methods17.exe
-C:\Users\Prince\Desktop\csarp\Methods17\Methods17\obj\Debug\Methods17.pdb

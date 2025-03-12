@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\bin\Debug\BuiltInType.exe.config
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\bin\Debug\BuiltInType.exe
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\bin\Debug\BuiltInType.pdb
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\obj\Debug\BuiltInType.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\obj\Debug\BuiltInType.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\obj\Debug\BuiltInType.exe
-C:\Users\Prince\Desktop\csarp\BuiltInType\BuiltInType\obj\Debug\BuiltInType.pdb

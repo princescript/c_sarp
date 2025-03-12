@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\bin\Debug\Delegates36.exe.config
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\bin\Debug\Delegates36.exe
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\bin\Debug\Delegates36.pdb
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\obj\Debug\Delegates36.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\obj\Debug\Delegates36.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\obj\Debug\Delegates36.exe
-C:\Users\Prince\Desktop\csarp\Delegates36\Delegates36\obj\Debug\Delegates36.pdb

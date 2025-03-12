@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\obj\Debug\Interfaceincsarp30.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\obj\Debug\Interfaceincsarp30.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\bin\Debug\Interfaceincsarp30.exe.config
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\bin\Debug\Interfaceincsarp30.exe
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\bin\Debug\Interfaceincsarp30.pdb
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\obj\Debug\Interfaceincsarp30.exe
-C:\Users\Prince\Desktop\csarp\Interfaceincsarp30\Interfaceincsarp30\obj\Debug\Interfaceincsarp30.pdb

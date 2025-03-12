@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\bin\Debug\ConditionalStatement10.exe.config
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\bin\Debug\ConditionalStatement10.exe
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\bin\Debug\ConditionalStatement10.pdb
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\obj\Debug\ConditionalStatement10.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\obj\Debug\ConditionalStatement10.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\obj\Debug\ConditionalStatement10.exe
-C:\Users\Prince\Desktop\csarp\ConditionalStatement10\ConditionalStatement10\obj\Debug\ConditionalStatement10.pdb

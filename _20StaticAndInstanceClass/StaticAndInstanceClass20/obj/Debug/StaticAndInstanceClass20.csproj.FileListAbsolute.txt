@@ -1,7 +1,0 @@
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\bin\Debug\StaticAndInstanceClass20.exe.config
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\bin\Debug\StaticAndInstanceClass20.exe
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\bin\Debug\StaticAndInstanceClass20.pdb
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\obj\Debug\StaticAndInstanceClass20.csproj.AssemblyReference.cache
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\obj\Debug\StaticAndInstanceClass20.csproj.CoreCompileInputs.cache
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\obj\Debug\StaticAndInstanceClass20.exe
-C:\Users\Prince\Desktop\csarp\StaticAndInstanceClass20\StaticAndInstanceClass20\obj\Debug\StaticAndInstanceClass20.pdb
